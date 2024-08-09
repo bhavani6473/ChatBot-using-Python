@@ -8,6 +8,7 @@ The chatbot was designed to engage in basic conversations, utilizing NLTK for te
 **Technologies Used**
 
 **Python**: Core programming language for building the chatbot.
+
 **NLTK (Natural Language Toolkit)**: Library used for text processing and language understanding.
 The project involved setting up the environment, handling user inputs, and generating appropriate responses, all within a structured and modular codebase. This experience significantly enhanced my understanding of NLP and Python, paving the way for more advanced projects in the future.
 
